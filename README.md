@@ -1,4 +1,4 @@
-# dotVim with Steroids
+# Vim with Steroids
 
 Don't start with Vim from the scratch.
 
@@ -137,13 +137,21 @@ Please don't send pull request for patching, because this is my vim configuratio
 
 ## Self-Promotion
 
-If you want you can give a tour for my [blog](http://www.mizaqblog.com) and follow me on [Twitter](https://twitter.com/mismatso).
+If you wish, you can visit my YouTube channel [MizaqScreencasts](https://www.youtube.com/MizaqScreencasts) and follow me on [Twitter](https://twitter.com/mismatso).
 
+## License ![by-nc-sa](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)
 
-## License
+**Vim with Steroids** by _Misael Matamoros Soto_ is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). This means you are free to:
 
-**dotVim with Steroids** by *Misael Matamoros Soto* is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+- **Share** — copy and redistribute the material in any medium or format.
+- **Adapt** — remix, transform, and build upon the material, but **not for commercial purposes**.
 
-Based on a work at https://github.com/mismatso/dotvim.
+Under the following conditions:
 
-![Licencia Creative Commons](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) 
+- **Attribution** — you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial** — you may not use the material for commercial purposes.
+- **ShareAlike** — if you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+---
+
+[Vim with Steroids](https://github.com/mismatso/vim-with-steroids) © 2015 by [Misael Matamoros](https://t.me/mismatso) is licensed under [CC BY-NC-SA 4](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
